@@ -21,7 +21,7 @@ if not os.path.exists(file_path):
 
 
 def quit_application():
-    print("Goodbye!")
+    print("Thankyou And Goodbye :)")
     quit()
 
 
